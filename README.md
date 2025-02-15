@@ -171,7 +171,7 @@ kubectl apply -f jenkins-storage.yaml
 ```
 
 <p align="center">
-    <img src="image/13.png" width="60%">
+    <img src="image/13.png" width="100%">
 </p>
 
 2. Create StorageClass
@@ -180,7 +180,7 @@ kubectl apply -f jenkins-storage.yaml
 kubectl apply -f jenkins-storage.yaml
 ```
 
-### Cleanp
+## Cleanp
 
 ```bash
 kubectl delete -f .
