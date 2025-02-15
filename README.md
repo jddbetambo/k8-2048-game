@@ -1,4 +1,4 @@
-# Kubernetes Ingress works with aws-alb-ingress-controller
+## Kubernetes Ingress works with aws-alb-ingress-controller
 
 <p align="center">
     <img src="image/01.png" width="100%">
