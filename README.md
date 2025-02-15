@@ -182,3 +182,6 @@ kubectl apply -f jenkins-storage.yaml
 
 ### Cleanp
 
+```bash
+kubectl delete -f .
+```
